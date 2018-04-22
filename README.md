@@ -13,3 +13,6 @@
 - [company/직장인_3.나의만족](/docs/company/직장인_3.나의만족.md)
 - [company/직장인_4.나의업력](/docs/company/직장인_4.나의업력.md)
 
+- [life/개발자로늙어간다는것](/docs/life/개발자로늙어간다는것.md)
+
+
