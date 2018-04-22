@@ -9,3 +9,4 @@
 
 
 - [company/직장인_1.나의가치](/docs/company/직장인_1.나의가치.md)
+- [company/직장인_2.나의업무](/docs/company/직장인_2.나의업무.md)
