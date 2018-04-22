@@ -8,11 +8,17 @@
 3. 그래도 실행시 결과화면은 나옴
 
 
+[회사생활]
 - [company/직장인_1.나의가치](/docs/company/직장인_1.나의가치.md)
 - [company/직장인_2.나의업무](/docs/company/직장인_2.나의업무.md)
 - [company/직장인_3.나의만족](/docs/company/직장인_3.나의만족.md)
 - [company/직장인_4.나의업력](/docs/company/직장인_4.나의업력.md)
 
+[사는것]
 - [life/개발자로늙어간다는것](/docs/life/개발자로늙어간다는것.md)
+
+
+[비지니스]
+- [job/자영업개발자](/docs/life/자영업개발자.md)
 
 
