@@ -2,7 +2,7 @@ package life
 
 fun main(args: Array<String>) {
 
-    listOf<String>("만족스럽지 않다", "이상으로 만든다", "공감하게 한다").let{
+    답변한다("만족스럽지 않다", "이상으로 만든다", "공감하게 한다").let{
         답변들 ->
         "1. 멋진 말들은 이상적이다.\n" +
         "   1. 현실은 ${답변들[0]}\n" +
@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
         println (">이상에 대해서...:\n$it" )
     }
 
-    listOf<String>("현실이다", "정리정돈이다", "만들기전에는").let{
+    답변한다("현실이다", "정리정돈이다", "만들기전에는").let{
         답변들 ->
         "2. 현실은 논리적이지 않다.\n" +
          "   1. 기본기능조차 안되는 것이 ${답변들[0]}\n" +
@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
         println (">현실에 대해서...:\n$it" )
     }
 
-    listOf<String>("정확하지 않으면 못만든다고 말한다", "만들기 전까지는 모른다고 말한다", "기분좋게 만들지는 않는다").let{
+    답변한다("정확하지 않으면 못만든다고 말한다", "만들기 전까지는 모른다고 말한다", "기분좋게 만들지는 않는다").let{
         답변들 ->
         "3. 지식형 개발자와 경험형 개발자\n" +
         "   1. 지식형 개발자 -> ${답변들[0]}\n" +
@@ -31,4 +31,14 @@ fun main(args: Array<String>) {
     } .let {
         println (">지식형, 경험형 개발자...:\n$it" )
     }
+}
+
+fun 답변한다( s1 : String , s2 : String, s3 : String) : MutableList<String>{
+    val arr : MutableList<String> = mutableListOf<String>()
+    arr.apply {
+        add(s1)
+        add(s2)
+        add(s3)
+    }
+    return arr
 }
