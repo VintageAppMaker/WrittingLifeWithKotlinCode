@@ -18,6 +18,7 @@
 - [life/개발자로늙어간다는것](/docs/life/개발자로늙어간다는것.md)
 - [life/현실과이상](/docs/life/현실과이상.md)
 - [life/아는것과하는것](/docs/life/아는것과하는것.md)
+- [life/필요없는것버리기](/docs/life/필요없는것버리기.md)
 
 
 [비지니스]
