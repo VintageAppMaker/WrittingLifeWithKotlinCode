@@ -24,5 +24,5 @@
 [비지니스]
 - [job/자영업개발자](/docs/job/자영업개발자.md)
 - [job/단순해지기](/docs/job/단순해지기.md)
-
+- [job/협업하기](/docs/job/협업하기.md)
 
