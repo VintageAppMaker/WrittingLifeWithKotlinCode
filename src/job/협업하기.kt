@@ -4,7 +4,7 @@ fun main(args: Array<String>) {
 
     var 일하는사람 : 개발자?  = null
     fun 개발자?.프로젝트진행(요구 : String){
-        this!!.요구분석("쇼핑몰앱")
+        this!!.요구분석(요구)
         this!!.개발하기()
         this!!.결과물만들기()
     }
