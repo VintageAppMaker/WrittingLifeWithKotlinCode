@@ -26,5 +26,7 @@
 - [job/단순해지기](/docs/job/단순해지기.md)
 - [job/협업하기](/docs/job/협업하기.md)
 - [job/자영업의실력](/docs/job/자영업의실력.md)
+- [job/오픈소스](/docs/job/오픈소스.md)
+
 
 
