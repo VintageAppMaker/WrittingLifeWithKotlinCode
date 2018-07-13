@@ -19,6 +19,7 @@
 - [life/현실과이상](/docs/life/현실과이상.md)
 - [life/아는것과하는것](/docs/life/아는것과하는것.md)
 - [life/필요없는것버리기](/docs/life/필요없는것버리기.md)
+- [life/살아보니](/docs/life/살아보니.md)
 
 
 [비지니스]
