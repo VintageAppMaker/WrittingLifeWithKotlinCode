@@ -20,7 +20,7 @@
 - [life/아는것과하는것](/docs/life/아는것과하는것.md)
 - [life/필요없는것버리기](/docs/life/필요없는것버리기.md)
 - [life/살아보니](/docs/life/살아보니.md)
-
+- [life/본색은이럴떄나온다](/docs/life/본색은이럴떄나온다.md)
 
 [비지니스]
 - [job/자영업개발자](/docs/job/자영업개발자.md)
