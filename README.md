@@ -29,6 +29,7 @@
 - [job/자영업의실력](/docs/job/자영업의실력.md)
 - [job/오픈소스](/docs/job/오픈소스.md)
 - [job/이직](/docs/job/이직.md)
+- [job/연봉과삶](/docs/job/연봉과삶.md)
 
 
 
