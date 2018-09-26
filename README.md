@@ -21,6 +21,8 @@
 - [life/필요없는것버리기](/docs/life/필요없는것버리기.md)
 - [life/살아보니](/docs/life/살아보니.md)
 - [life/본색은이럴때나온다](/docs/life/본색은이럴때나온다.md)
+- [life/인생은하위평준화](/docs/life/인생은하위평준화.md)
+
 
 [비지니스]
 - [job/자영업개발자](/docs/job/자영업개발자.md)
